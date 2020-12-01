@@ -1,0 +1,5 @@
+info.py
+__pycache__/*
+
+geckodriver.log
+
