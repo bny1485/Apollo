@@ -1,0 +1,9 @@
+# first change name of this file to info.py
+
+
+
+
+INFO = {
+	'usr_name':'write your user name hare',
+	'passwd':'write your password hare'
+}
