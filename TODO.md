@@ -1,3 +1,4 @@
+- [ ] TODO Likes and comments on a predefined user account
 - [ ] TODO send massege to dircte
-- [ ] TODO search in instagram explor
-
+- [ ] TODO Browse Instagram Explorer and like and comment on messages
+- [ ] TODO comment user AL 
